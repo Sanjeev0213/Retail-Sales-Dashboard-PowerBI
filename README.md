@@ -47,11 +47,6 @@ Identify high-performing regions
 Compare product categories
 Track profitability
 Support data-driven business decisions
-Dashboard Preview
-
-<p align="center">
-  <img src="Images/image.png" alt="Retail Sales Dashboard Preview" width="100%">
-</p>
 
 
 Author
