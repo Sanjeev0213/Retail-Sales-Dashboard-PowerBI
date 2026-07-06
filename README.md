@@ -49,7 +49,9 @@ Track profitability
 Support data-driven business decisions
 Dashboard Preview
 
-(Add your dashboard screenshot here.)
+<p align="center">
+  <img src="Images/image.png" alt="Retail Sales Dashboard Preview" width="100%">
+</p>
 
 
 Author
