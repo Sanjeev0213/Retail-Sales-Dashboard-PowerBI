@@ -48,7 +48,9 @@ Compare product categories
 Track profitability
 Support data-driven business decisions
 
+## Note
 
+The Power BI (.pbix) file is not included because it exceeds GitHub's file size limit. Dashboard screenshots and project documentation are provided for review.
 Author
 
 Sanjeev Kumar Yadav
